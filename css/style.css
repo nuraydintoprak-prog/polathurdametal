@@ -621,10 +621,10 @@ button { font: inherit; cursor: pointer; }
   .footer-grid { grid-template-columns: 1fr; gap: 26px; }
   .section { padding: 48px 0; }
   .contact-grid { grid-template-columns: 1fr; }
-  .stat-bar .container { display: grid; grid-template-columns: 1fr 1fr; gap: 0; }
+  .stat-bar .container { display: block; }
   .stat-item::after { display: none; }
   .stat-item { border-bottom: 1px solid rgba(255,255,255,0.12); }
-  .stat-item:nth-last-child(-n+2) { border-bottom: 0; }
+  .stat-item:last-child { border-bottom: 0; }
 }
 
 @media (max-width: 420px) {
