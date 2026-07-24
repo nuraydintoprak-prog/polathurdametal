@@ -56,24 +56,6 @@ button { font: inherit; cursor: pointer; }
 .icon-sm { width: 18px; height: 18px; }
 .icon-lg { width: 32px; height: 32px; }
 
-/* ---------- Top info bar ---------- */
-.topbar {
-  background: var(--navy-950);
-  color: #cbd5e1;
-  font-size: 13.5px;
-}
-.topbar .container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  height: 38px;
-}
-.topbar-left, .topbar-right { display: flex; align-items: center; gap: 18px; }
-.topbar a { display: inline-flex; align-items: center; gap: 6px; color: #cbd5e1; }
-.topbar a:hover { color: #fff; }
-.topbar .icon { width: 15px; height: 15px; }
-
 /* ---------- Header ---------- */
 .site-header {
   position: sticky;
@@ -619,7 +601,6 @@ button { font: inherit; cursor: pointer; }
 }
 
 @media (max-width: 860px) {
-  .topbar { display: none; }
   .main-nav { display: none; }
   .nav-toggle { display: flex; }
   .hero { min-height: 520px; }
