@@ -29,3 +29,32 @@
     if (e.key === "Escape") closeNav();
   });
 })();
+
+(function () {
+  var wrap = document.querySelector("[data-region-switch]");
+  if (!wrap) return;
+  var toggle = wrap.querySelector("[data-region-toggle]");
+
+  function close() {
+    wrap.classList.remove("is-open");
+    toggle.setAttribute("aria-expanded", "false");
+  }
+  function open() {
+    wrap.classList.add("is-open");
+    toggle.setAttribute("aria-expanded", "true");
+  }
+
+  toggle.addEventListener("click", function (e) {
+    e.stopPropagation();
+    if (wrap.classList.contains("is-open")) close();
+    else open();
+  });
+
+  document.addEventListener("click", function (e) {
+    if (!wrap.contains(e.target)) close();
+  });
+
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") close();
+  });
+})();
