@@ -7,7 +7,7 @@
 - Hizmet bölgesi: Muğla ili ve 13 ilçesi
 - Adres: Bodrum, Muğla
 - Telefon / WhatsApp: 0539 469 51 16
-- Web sitesi: https://www.polathurdametal.com.tr
+- Web sitesi: https://polathurdametal.com.tr
 
 ## Hizmetler
 - Metal Hurda Türleri: demir, bakır, alüminyum, pirinç, paslanmaz çelik
@@ -22,24 +22,24 @@
 - Bireysel ve kurumsal/toplu hurda teslimlerine uygun
 
 ## Sayfalar
-- Anasayfa: https://www.polathurdametal.com.tr/
-- Hakkımızda: https://www.polathurdametal.com.tr/hakkimizda.html
-- İletişim: https://www.polathurdametal.com.tr/iletisim.html
-- Sıkça Sorulan Sorular: https://www.polathurdametal.com.tr/sss.html
-- Demir Hurda Alımı: https://www.polathurdametal.com.tr/hizmetler/demir-hurda-alimi.html
-- Bakır Hurda Alımı: https://www.polathurdametal.com.tr/hizmetler/bakir-hurda-alimi.html
-- Beyaz Eşya Hurda Alımı: https://www.polathurdametal.com.tr/hizmetler/beyaz-esya-hurda-alimi.html
-- Klima Hurda Alımı: https://www.polathurdametal.com.tr/hizmetler/klima-hurda-alimi.html
-- Bodrum Hurdacı: https://www.polathurdametal.com.tr/ilceler/bodrum.html
-- Fethiye Hurdacı: https://www.polathurdametal.com.tr/ilceler/fethiye.html
-- Marmaris Hurdacı: https://www.polathurdametal.com.tr/ilceler/marmaris.html
-- Milas Hurdacı: https://www.polathurdametal.com.tr/ilceler/milas.html
-- Ortaca Hurdacı: https://www.polathurdametal.com.tr/ilceler/ortaca.html
-- Dalaman Hurdacı: https://www.polathurdametal.com.tr/ilceler/dalaman.html
-- Datça Hurdacı: https://www.polathurdametal.com.tr/ilceler/datca.html
-- Köyceğiz Hurdacı: https://www.polathurdametal.com.tr/ilceler/koycegiz.html
-- Menteşe Hurdacı: https://www.polathurdametal.com.tr/ilceler/mentese.html
-- Ula Hurdacı: https://www.polathurdametal.com.tr/ilceler/ula.html
-- Yatağan Hurdacı: https://www.polathurdametal.com.tr/ilceler/yatagan.html
-- Kavaklıdere Hurdacı: https://www.polathurdametal.com.tr/ilceler/kavaklidere.html
-- Seydikemer Hurdacı: https://www.polathurdametal.com.tr/ilceler/seydikemer.html
+- Anasayfa: https://polathurdametal.com.tr/
+- Hakkımızda: https://polathurdametal.com.tr/hakkimizda.html
+- İletişim: https://polathurdametal.com.tr/iletisim.html
+- Sıkça Sorulan Sorular: https://polathurdametal.com.tr/sss.html
+- Demir Hurda Alımı: https://polathurdametal.com.tr/hizmetler/demir-hurda-alimi.html
+- Bakır Hurda Alımı: https://polathurdametal.com.tr/hizmetler/bakir-hurda-alimi.html
+- Beyaz Eşya Hurda Alımı: https://polathurdametal.com.tr/hizmetler/beyaz-esya-hurda-alimi.html
+- Klima Hurda Alımı: https://polathurdametal.com.tr/hizmetler/klima-hurda-alimi.html
+- Bodrum Hurdacı: https://polathurdametal.com.tr/ilceler/bodrum.html
+- Fethiye Hurdacı: https://polathurdametal.com.tr/ilceler/fethiye.html
+- Marmaris Hurdacı: https://polathurdametal.com.tr/ilceler/marmaris.html
+- Milas Hurdacı: https://polathurdametal.com.tr/ilceler/milas.html
+- Ortaca Hurdacı: https://polathurdametal.com.tr/ilceler/ortaca.html
+- Dalaman Hurdacı: https://polathurdametal.com.tr/ilceler/dalaman.html
+- Datça Hurdacı: https://polathurdametal.com.tr/ilceler/datca.html
+- Köyceğiz Hurdacı: https://polathurdametal.com.tr/ilceler/koycegiz.html
+- Menteşe Hurdacı: https://polathurdametal.com.tr/ilceler/mentese.html
+- Ula Hurdacı: https://polathurdametal.com.tr/ilceler/ula.html
+- Yatağan Hurdacı: https://polathurdametal.com.tr/ilceler/yatagan.html
+- Kavaklıdere Hurdacı: https://polathurdametal.com.tr/ilceler/kavaklidere.html
+- Seydikemer Hurdacı: https://polathurdametal.com.tr/ilceler/seydikemer.html
